@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+**[Home](README.md)** // [Happenings](happenings.md) // [Community](community.md) // [Meetup](meetup.md)
 
-You can use the [editor on GitHub](https://github.com/arnoan/eu-dash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Join the chat at https://gitter.im/eu-data-science/Lobby](https://badges.gitter.im/eu-data-science/Lobby.svg)](https://gitter.im/eu-data-science/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-### Markdown
+The Euregio Data Science Hub aims to provide one integrated point of information for all Data Science related happenings in the region. It is a project by the local data science community for the community. Whether you are a practicing professional, hobby developer with a fascination for predictive models, researcher or a student. This is a place for you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Hub helps you to find relevant information, resources and events in one convenient place and connects you with other Data Enthusiasts in the region. It aims to build bridges between the different communities that currently co-exist at the various departments and institutions and create a common awareness for the work, dreams and plans of all of us working with Data in the region.
 
-```markdown
-Syntax highlighted code block
+Our vision is to achieve three things:  
+1) To provide **an independent, community driven source of information** about all the relevant happenings in the region, be it lectures, conferences, workshop series, hackathons or anything else of interest to our community.
 
-# Header 1
-## Header 2
-### Header 3
+2) To provide **a seamless platform for people to connect, communicate and help each other**. We identified Gitter – a popular open-source communication platform – as the ideal way to implement this. Questions can be asked there and groups can be formed around common themes of interest. (E.g. joint research projects, hackathon group formation, Kaggle Competitions..)
 
-- Bulleted
-- List
+3) To host **a monthly physical meetup** with fluid structure where we get to know each other in person, work on interesting data sets together, discuss our dreams and struggles and help each other out.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arnoan/eu-dash/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Most importantly this is a *community driven* initiative by people who care about data science and wish to build a cross-institutional community together. So please do feel warmly invited to bring in your ideas, feedback and dreams and feel encouraged to get involved in any way you see fit.
